@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Kymo SuperApp",
+  "description": "A powerful, unified social ecosystem combining the features of Facebook, Instagram, WhatsApp, and TikTok into one high-performance interface with integrated Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
